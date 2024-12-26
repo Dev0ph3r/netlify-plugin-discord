@@ -1,0 +1,9 @@
+{
+  "successTitle": "🚀 Déploiement réussi pour",
+  "successDescription": "Le site [**{name}**]({url}) a été déployé avec succès à {time}.\n\n[Voir les logs]({log})",
+  "failureTitle": "⚠️ Échec du déploiement pour",
+  "failureDescription": "Le site [**{name}**]({url}) n'a pas été déployé.\n\n[Voir les logs]({log})",
+  "noWebhook": "Aucun webhook Discord configuré. Veuillez configurer DISCORD_WEBHOOK_URL dans vos variables d'environnement.",
+  "notificationSuccess": "Notification de succès envoyée sur Discord.",
+  "notificationFailure": "Erreur lors de l'envoi de la notification Discord : {error}"
+}
