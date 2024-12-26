@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.0...v1.0.1) (2024-12-26)
+
+
+### Bug Fixes
+
+* **comments:** Remove useless comments ([78b7cb7](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/78b7cb7b9b252f5498ac1049480607fe32801dc9))
+
 # 1.0.0 (2024-12-26)
 
 
