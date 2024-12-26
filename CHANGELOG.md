@@ -1,3 +1,10 @@
+# 1.0.0 (2024-12-26)
+
+
+### Features
+
+* **plugin:** Create Discord webhook plugin for Netlify ([ec954ce](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/ec954ce6c03ae098c80ad3347b84ab5fb7ffd6f4))
+
 ## [1.0.2](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.1...v1.0.2) (2024-12-26)
 
 
