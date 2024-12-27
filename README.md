@@ -85,9 +85,16 @@ Once the plugin is installed and the environment variables are set, it will auto
 
 Both notifications include detailed information about the deployment, such as the site name, branch, build ID, and more.
 
-Support
+* * *
+
+License
 -------
 
-If you encounter any issues or have questions, feel free to reach out via the plugin's repository.
+This plugin is licensed under the MIT License. See the LICENSE file for details.
 
-Enjoy seamless notifications with the Netlify Discord Notification Plugin!
+* * *
+
+Contributions
+-------------
+
+Contributions are welcome! Feel free to open an issue or submit a pull request with improvements or fixes.
