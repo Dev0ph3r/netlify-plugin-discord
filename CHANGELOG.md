@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.1...v1.0.2) (2024-12-27)
+
+
+### Bug Fixes
+
+* **module:** Fix onPreBuild function that uses wrong variable for failBuild ([cf86c73](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/cf86c73c2831afd7192ae0a8855f008ac37474b4))
+
 ## [1.0.1](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.0...v1.0.1) (2024-12-26)
 
 
