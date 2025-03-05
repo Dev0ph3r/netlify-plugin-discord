@@ -28,12 +28,12 @@
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^13.0.0",
+    "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/npm": "^12.0.1",
-    "@semantic-release/release-notes-generator": "^14.0.2",
-    "prettier": "^3.4.2",
-    "semantic-release": "^24.2.0"
+    "@semantic-release/release-notes-generator": "^14.0.3",
+    "prettier": "^3.5.3",
+    "semantic-release": "^24.2.3"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
@@ -52,5 +52,5 @@
       "main"
     ]
   },
-  "packageManager": "npm@11.0.0+sha512.11dff29565d2297c74e7c594a9762581bde969f0aa5cbe6f5b3644bf008a16c065ece61094d9ffbb81125be38df8e1ba43eb8244b3d30c61eb797e9a2440e3ec"
+  "packageManager": "npm@11.1.0"
 }
