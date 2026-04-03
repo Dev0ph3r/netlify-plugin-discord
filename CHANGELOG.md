@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.3...v1.0.4) (2026-04-03)
+
+
+### Bug Fixes
+
+* update packages ([b301a76](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/b301a76c9437c3d6de6d051759a81074263aaa79))
+
 ## [1.0.3](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.2...v1.0.3) (2026-01-23)
 
 
