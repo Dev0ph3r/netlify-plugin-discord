@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.4...v1.0.5) (2026-04-03)
+
+
+### Bug Fixes
+
+* fix ci ([e500f7c](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/e500f7c2ca3e411d063c22ae1641fde44d6f5e75))
+* remove semantic packages as they part of ci ([94dc1b5](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/94dc1b5a26013d625cf4afdedd68cd6e16584ee6))
+
 ## [1.0.4](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.3...v1.0.4) (2026-04-03)
 
 
