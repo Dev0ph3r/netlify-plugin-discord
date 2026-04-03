@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.5...v1.0.6) (2026-04-03)
+
+
+### Bug Fixes
+
+* fix ci ([0543d4c](https://github.com/Dev0ph3r/netlify-plugin-discord/commit/0543d4c3858e7798201259562dd0caa234133ab2))
+
 ## [1.0.5](https://github.com/Dev0ph3r/netlify-plugin-discord/compare/v1.0.4...v1.0.5) (2026-04-03)
 
 
